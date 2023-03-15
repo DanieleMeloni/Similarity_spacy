@@ -1,6 +1,5 @@
 # Similarity_spacy
-This repository contains two simple progrmas, that use the NLP (natural language processing) spacy module to check the similarity between words in the "semantic.py" file and between sentences in "watch_next.py"
-
+This repository contains two simple programs, that use the NLP (natural language processing) spacy module. The first program "semantic.py" checks the similarity between words. The second program "watch_next.py" check
 How to run
   1) You need a compilator like Visual Studio or Pycharm
   
