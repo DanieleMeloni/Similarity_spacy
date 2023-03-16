@@ -14,5 +14,4 @@ How to run
   4) Now you can run the programs in your copilator
   
   5) If there are problems during the installation check your python version and whether is to hold install a new version.
-     If your operating system is widows 11 and after upgrade the python the machine doesn't reconize the new version, upgrade python from Microsoft store.
-  
+     If your operating system is widows 11 and after python's upgrade the machine doesn't reconize the new version, upgrade python from Microsoft store.
